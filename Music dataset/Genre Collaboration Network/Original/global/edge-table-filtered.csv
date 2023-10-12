@@ -1,0 +1,67 @@
+Source,Target,Type,Id,Label,Weight,avg_streams
+latin,reggaeton,Undirected,0,,479,106046838.227273
+latin,latin,Undirected,1,,282,104895305.034884
+pop rap,rap,Undirected,2,,222,53856301.009174
+rap,trap,Undirected,3,,218,66562200.673267
+hip hop,rap,Undirected,4,,203,54050063.567901
+reggaeton,reggaeton,Undirected,5,,197,105055988.681159
+rap,rap,Undirected,7,,194,55906963.366972
+pop,pop,Undirected,9,,185,100645552.492424
+dance pop,pop,Undirected,10,,183,86030063.95
+pop,post-teen pop,Undirected,15,,157,97044044.111111
+pop rap,trap,Undirected,17,,130,55782000.375
+pop,pop rap,Undirected,18,,122,66067546.975
+hip hop,pop rap,Undirected,20,,107,60439696.786885
+pop,rap,Undirected,21,,105,58316709.907692
+pop,tropical house,Undirected,22,,103,74862523.423729
+hip hop,trap,Undirected,24,,93,56837018.327273
+edm,pop,Undirected,27,,85,66541194.680851
+dance pop,post-teen pop,Undirected,32,,78,96891779.90566
+pop rap,pop rap,Undirected,34,,73,71482081.392857
+dance pop,tropical house,Undirected,35,,69,61678727.066667
+trap,trap,Undirected,39,,63,49254852.511111
+dance pop,edm,Undirected,42,,61,65228629.9
+pop,trap,Undirected,43,,60,47684998.333333
+dance pop,pop rap,Undirected,45,,58,76527244.904762
+hip hop,hip hop,Undirected,47,,54,55815353.6
+dance pop,dance pop,Undirected,49,,52,73111322
+post-teen pop,tropical house,Undirected,52,,49,64908942.439024
+dance pop,rap,Undirected,53,,49,66241281.666667
+hip hop,pop,Undirected,59,,46,39731070.7
+latin,pop,Undirected,64,,42,101645795.791667
+pop,reggaeton,Undirected,68,,40,107808331.318182
+pop rap,post-teen pop,Undirected,70,,39,82745920.969697
+edm,post-teen pop,Undirected,72,,38,69187390.193548
+edm,tropical house,Undirected,74,,37,54400258.619048
+dance pop,latin,Undirected,84,,32,98325076.772727
+post-teen pop,post-teen pop,Undirected,86,,32,132040958.833333
+dance pop,reggaeton,Undirected,89,,30,104771793.95
+dance pop,trap,Undirected,95,,28,55154016.47619
+post-teen pop,rap,Undirected,98,,27,75956324.7
+latin,pop rap,Undirected,109,,24,121403664.631579
+pop rap,reggaeton,Undirected,114,,22,131703165.764706
+tropical house,tropical house,Undirected,116,,22,54175307.05
+edm,pop rap,Undirected,135,,19,90160603.176471
+latin,post-teen pop,Undirected,142,,18,93732915.461538
+post-teen pop,trap,Undirected,149,,18,61615938.0625
+latin,rap,Undirected,153,,17,136607763.307692
+edm,latin,Undirected,157,,17,110199501.272727
+dance pop,hip hop,Undirected,161,,17,43428379.2
+edm,reggaeton,Undirected,169,,16,116624295.6
+post-teen pop,reggaeton,Undirected,170,,16,104619281
+rap,reggaeton,Undirected,176,,15,150264226.272727
+edm,edm,Undirected,193,,14,51959321.333333
+hip hop,post-teen pop,Undirected,197,,14,37861351.2
+edm,rap,Undirected,208,,13,103992756.333333
+pop rap,tropical house,Undirected,212,,13,70553332.6
+latin,tropical house,Undirected,280,,10,92479045.75
+latin,trap,Undirected,284,,9,85865795.25
+edm,trap,Undirected,300,,9,112576784.833333
+reggaeton,tropical house,Undirected,321,,9,107988208.333333
+reggaeton,trap,Undirected,358,,7,93988654.666667
+trap,tropical house,Undirected,671,,4,102787129.333333
+rap,tropical house,Undirected,921,,3,46575746
+edm,hip hop,Undirected,1104,,2,4931256
+hip hop,latin,Undirected,1159,,2,218731393
+hip hop,reggaeton,Undirected,1160,,2,218731393
+hip hop,tropical house,Undirected,2081,,1,20012659
