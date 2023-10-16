@@ -1,7 +1,7 @@
 #%% 
 import pandas as pd
 #%%
-# Read the edge table from a CSV file (assuming the edge table is in 'edges.csv')
+# Read the edge table from a CSV file
 edges_df = pd.read_csv('/Users/Arundhati/Downloads/Artist Edges.csv')
 ## print(edges_df.head())
 #%%
@@ -9,10 +9,10 @@ edges_df = pd.read_csv('/Users/Arundhati/Downloads/Artist Edges.csv')
 edge_counts = edges_df.groupby(['Source', 'Target']).size().reset_index(name='Weight')
 edge_counts_dict = {(row['Source'], row['Target']): row['Weight'] for index, row in edge_counts.iterrows()}
 
-# Add the 'weight' column to the edge DataFrame based on the counts
+# Add the 'Weight' column to the edge DataFrame based on the counts
 edges_df['Weight'] = edges_df.apply(lambda row: edge_counts_dict.get((row['Source'], row['Target']), 0), axis=1)
 
-# Remove duplicates based on 'source' and 'target' columns
+# Remove duplicates based on 'Source' and 'Target' columns
 edges_df = edges_df.drop_duplicates(subset=['Source', 'Target'])
 
 # Save the updated edge DataFrame to a different directory
