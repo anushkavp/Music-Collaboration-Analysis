@@ -1,0 +1,407 @@
+Id,Label,modularity_class,Weighted Degree,Degree,componentnumber,stat_inf_class,clustering,triangles,eigencentrality
+pop rap,pop rap,1,6796,217,0,42,0.155039,3600,0.915815
+rap,rap,1,8149,205,0,36,0.154593,3201,0.858582
+trap,trap,1,5261,163,0,40,0.215321,2808,0.75482
+hip hop,hip hop,1,4964,174,0,0,0.18692,2781,0.767946
+dance pop,dance pop,1,4873,220,0,6,0.153198,3657,0.925226
+pop,pop,1,7879,254,0,5,0.122279,3898,1
+latin,latin,2,4810,130,0,46,0.230741,1905,0.600599
+reggaeton,reggaeton,2,4069,123,0,32,0.230999,1705,0.565837
+southern hip hop,southern hip hop,1,2984,143,0,2,0.260613,2609,0.704301
+atl hip hop,atl hip hop,1,2025,97,0,7,0.373684,1704,0.534541
+post-teen pop,post-teen pop,1,3362,187,0,11,0.190294,3274,0.839098
+tropical house,tropical house,1,2294,177,0,35,0.183377,2824,0.776946
+tropical,tropical,2,2004,90,0,9,0.337079,1320,0.464011
+edm,edm,1,2086,173,0,29,0.194206,2856,0.774923
+melodic rap,melodic rap,1,1739,102,0,14,0.367129,1854,0.560996
+latin hip hop,latin hip hop,2,1355,74,0,41,0.366058,962,0.381764
+reggaeton flow,reggaeton flow,2,1595,67,0,31,0.429837,922,0.375307
+trap latino,trap latino,2,1715,79,0,33,0.340992,1024,0.403142
+electropop,electropop,1,1205,125,0,49,0.26567,2026,0.61667
+electro house,electro house,1,884,136,0,27,0.260365,2355,0.666906
+uk dance,uk dance,1,615,80,0,17,0.424213,1307,0.457425
+urban contemporary,urban contemporary,1,659,64,0,41,0.575013,1123,0.417713
+canadian pop,canadian pop,1,792,94,0,9,0.343151,1468,0.507476
+r&b,r&b,1,730,88,0,39,0.417803,1563,0.503429
+latin pop,latin pop,2,708,79,0,3,0.384948,1156,0.417674
+gangster rap,gangster rap,1,764,87,0,14,0.414501,1515,0.480919
+dirty south rap,dirty south rap,1,539,55,0,30,0.619529,920,0.361968
+house,house,1,438,68,0,16,0.508367,1124,0.41315
+progressive house,progressive house,1,410,78,0,12,0.431306,1262,0.444202
+miami hip hop,miami hip hop,1,581,69,0,19,0.509219,1160,0.42407
+uk pop,uk pop,1,670,95,0,33,0.344772,1507,0.516099
+conscious hip hop,conscious hip hop,1,593,77,0,25,0.403509,1150,0.403362
+toronto rap,toronto rap,1,496,75,0,17,0.496483,1341,0.448812
+big room,big room,1,456,86,0,47,0.356022,1271,0.454999
+chicago rap,chicago rap,1,457,69,0,45,0.47613,1117,0.423616
+indie poptimism,indie poptimism,1,258,66,0,8,0.390385,812,0.363936
+puerto rican pop,puerto rican pop,2,460,38,0,3,0.60961,406,0.233618
+pop edm,pop edm,1,307,68,0,12,0.393939,871,0.370599
+new orleans rap,new orleans rap,1,245,41,0,1,0.690244,566,0.274639
+alternative r&b,alternative r&b,1,391,70,0,13,0.465047,1091,0.413036
+canadian hip hop,canadian hip hop,1,473,72,0,34,0.470657,1203,0.430876
+colombian pop,colombian pop,2,375,45,0,3,0.434461,411,0.217249
+detroit hip hop,detroit hip hop,1,346,61,0,37,0.50904,901,0.366887
+atl trap,atl trap,1,355,49,0,34,0.623227,703,0.319875
+east coast hip hop,east coast hip hop,1,574,64,0,21,0.432668,845,0.343855
+art pop,art pop,1,144,38,0,26,0.358464,252,0.211334
+hip pop,hip pop,1,342,74,0,30,0.465753,1258,0.449476
+dancehall,dancehall,1,169,47,0,15,0.571981,592,0.294679
+canadian contemporary r&b,canadian contemporary r&b,1,168,39,0,13,0.626181,464,0.276822
+underground hip hop,underground hip hop,1,695,83,0,38,0.384523,1277,0.448642
+baile pop,baile pop,2,227,43,0,44,0.513357,442,0.242858
+funk carioca,funk carioca,2,314,53,0,44,0.462293,613,0.302448
+metropopolis,metropopolis,1,131,40,0,13,0.639744,499,0.284074
+indie pop rap,indie pop rap,1,118,28,0,18,0.71164,269,0.203243
+pop rock,pop rock,1,160,50,0,1,0.542041,664,0.335834
+queens hip hop,queens hip hop,1,367,66,0,43,0.567832,1218,0.42669
+modern rock,modern rock,1,154,41,0,1,0.712821,556,0.282952
+progressive electro house,progressive electro house,1,249,75,0,32,0.393188,1062,0.419215
+rock,rock,1,155,47,0,20,0.486957,504,0.273479
+dfw rap,dfw rap,1,274,55,0,48,0.537374,798,0.359757
+moombahton,moombahton,1,258,65,0,24,0.487599,983,0.390405
+viral pop,viral pop,1,220,50,0,18,0.53551,656,0.331743
+perreo,perreo,2,121,25,0,3,0.699275,193,0.162936
+uk hip hop,uk hip hop,1,133,49,0,38,0.521259,613,0.314288
+indie pop,indie pop,1,77,33,0,4,0.672348,355,0.245098
+indietronica,indietronica,1,119,42,0,7,0.563298,485,0.284675
+modern alternative rock,modern alternative rock,1,129,34,0,1,0.677362,380,0.24161
+electronic trap,electronic trap,1,202,47,0,8,0.650324,703,0.338044
+trap soul,trap soul,1,321,67,0,39,0.542657,1164,0.410063
+florida rap,florida rap,1,108,18,0,19,0.947712,145,0.158625
+uk dancehall,uk dancehall,1,74,29,0,19,0.711823,289,0.213786
+g funk,g funk,1,138,37,0,37,0.653968,412,0.235297
+neo soul,neo soul,1,127,26,0,37,0.852308,277,0.217755
+contemporary country,contemporary country,1,172,31,0,4,0.622989,271,0.190008
+country,country,1,135,32,0,26,0.660215,307,0.221909
+country road,country road,1,125,34,0,32,0.653409,345,0.230921
+modern country rock,modern country rock,1,78,14,0,4,0.901099,82,0.117194
+cubaton,cubaton,2,49,16,0,15,0.866667,91,0.116894
+norwegian pop,norwegian pop,1,54,30,0,20,0.504926,205,0.185934
+swedish pop,swedish pop,1,143,33,0,23,0.610887,303,0.217415
+nz pop,nz pop,1,24,6,0,48,1,15,0.059901
+danish pop,danish pop,1,34,14,0,8,0.945055,86,0.126504
+memphis hip hop,memphis hip hop,1,67,24,0,18,0.757246,209,0.182594
+neo mellow,neo mellow,1,72,30,0,18,0.641379,279,0.223071
+lgbtq+ hip hop,lgbtq+ hip hop,1,91,33,0,49,0.679435,337,0.22947
+barbadian pop,barbadian pop,1,65,22,0,30,0.917749,212,0.192622
+country pop,country pop,1,67,11,0,1,1,55,0.104524
+german hip hop,german hip hop,3,296,28,0,43,0.350427,123,0.129585
+hamburg hip hop,hamburg hip hop,3,77,9,0,43,0.785714,22,0.027151
+mexican pop,mexican pop,2,103,28,0,44,0.714286,270,0.187735
+bachata,bachata,2,101,14,0,3,0.956044,87,0.096581
+pittsburgh rap,pittsburgh rap,1,58,22,0,34,0.883117,204,0.169065
+philly rap,philly rap,1,152,36,0,7,0.803175,506,0.273405
+dutch house,dutch house,1,89,36,0,47,0.682353,406,0.251836
+stomp pop,stomp pop,1,41,19,0,37,0.959064,164,0.15671
+dmv rap,dmv rap,1,168,40,0,25,0.601282,469,0.25119
+latin arena pop,latin arena pop,2,83,18,0,15,0.779412,106,0.093981
+uk funky,uk funky,1,141,36,0,23,0.590476,372,0.240665
+rap latina,rap latina,2,243,47,0,46,0.542995,562,0.25728
+girl group,girl group,1,67,26,0,31,0.833846,271,0.226428
+talent show,talent show,1,111,35,0,23,0.719328,428,0.272058
+complextro,complextro,1,64,21,0,4,0.704762,148,0.161703
+german techno,german techno,1,63,21,0,28,0.628571,132,0.154876
+west coast rap,west coast rap,1,105,33,0,37,0.611742,323,0.218213
+deep german hip hop,deep german hip hop,3,87,9,0,43,0.785714,22,0.027151
+brazilian edm,brazilian edm,2,14,6,0,44,0.7,7,0.020804
+pop nacional,pop nacional,2,64,17,0,44,0.8,96,0.123861
+funk das antigas,funk das antigas,2,123,37,0,44,0.557057,371,0.229806
+pagode baiano,pagode baiano,2,115,37,0,44,0.557057,371,0.229806
+latin viral pop,latin viral pop,2,123,30,0,3,0.609195,265,0.184285
+australian dance,australian dance,1,110,21,0,23,0.680952,143,0.160478
+deep big room,deep big room,1,118,37,0,48,0.696825,439,0.253475
+alternative hip hop,alternative hip hop,1,255,40,0,26,0.394062,292,0.202589
+swedish electropop,swedish electropop,1,57,26,0,23,0.584615,190,0.183788
+deep house,deep house,1,30,19,0,18,0.80117,137,0.163165
+belgian edm,belgian edm,2,93,23,0,46,0.818182,189,0.152858
+boy band,boy band,1,72,24,0,31,0.775362,214,0.183629
+deep pop r&b,deep pop r&b,1,61,27,0,28,0.675214,237,0.213448
+uk contemporary r&b,uk contemporary r&b,1,82,23,0,24,0.750988,190,0.170841
+grime,grime,1,71,33,0,16,0.611742,323,0.229614
+champeta,champeta,2,20,10,0,3,0.933333,42,0.079353
+vallenato,vallenato,2,14,6,0,3,1,15,0.055899
+nyc pop,nyc pop,1,37,17,0,28,0.786765,107,0.120403
+indie electropop,indie electropop,1,38,13,0,28,0.769231,60,0.099661
+afrofuturismo brasileiro,afrofuturismo brasileiro,2,24,7,0,44,0.857143,18,0.040428
+bass trap,bass trap,2,24,7,0,44,0.857143,18,0.040428
+trap queen,trap queen,1,32,15,0,39,0.961905,101,0.146487
+deep tropical house,deep tropical house,1,22,17,0,31,0.375,51,0.09615
+electro latino,electro latino,2,55,24,0,15,0.753623,208,0.174613
+dutch pop,dutch pop,1,38,17,0,19,0.825,99,0.134915
+downtempo,downtempo,1,70,24,0,23,0.797101,220,0.204432
+australian pop,australian pop,1,133,20,0,25,0.757895,144,0.157582
+spanish pop,spanish pop,2,52,22,0,15,0.822511,190,0.169713
+deep euro house,deep euro house,1,22,14,0,18,0.824176,75,0.123347
+german dance,german dance,1,34,17,0,18,0.757353,103,0.139721
+electro,electro,1,18,5,0,33,0.7,7,0.037748
+filter house,filter house,1,49,9,0,16,0.972222,35,0.086982
+francoton,francoton,1,38,15,0,43,0.752381,79,0.131924
+etherpop,etherpop,1,66,21,0,28,0.742857,156,0.161705
+piano rock,piano rock,1,28,15,0,25,0.780952,82,0.133029
+london rap,london rap,1,12,6,0,34,1,15,0.057096
+hollywood,hollywood,1,81,11,0,20,0.666667,30,0.062306
+vapor soul,vapor soul,1,36,18,0,4,0.771242,118,0.162253
+indie cafe pop,indie cafe pop,1,16,10,0,31,0.888889,40,0.090092
+brostep,brostep,1,131,48,0,4,0.562943,635,0.316005
+social media pop,social media pop,1,81,25,0,20,0.673333,202,0.199491
+permanent wave,permanent wave,1,30,18,0,20,0.764706,117,0.15774
+candy pop,candy pop,1,66,24,0,47,0.865942,239,0.202993
+escape room,escape room,1,45,23,0,7,0.750988,190,0.173999
+reggae fusion,reggae fusion,2,44,25,0,15,0.681159,188,0.149717
+chicano rap,chicano rap,1,9,8,0,18,0.785714,22,0.061433
+alternative metal,alternative metal,1,17,14,0,38,0.835165,76,0.119565
+nu metal,nu metal,1,17,14,0,38,0.835165,76,0.119565
+post-grunge,post-grunge,1,17,14,0,21,0.835165,76,0.119565
+rap metal,rap metal,1,17,14,0,38,0.835165,76,0.119565
+adult standards,adult standards,1,54,20,0,26,0.497076,85,0.111549
+shiver pop,shiver pop,1,40,14,0,24,1,91,0.141165
+indie r&b,indie r&b,1,83,32,0,45,0.711694,353,0.229486
+emo rap,emo rap,1,296,59,0,49,0.45856,758,0.349174
+scandipop,scandipop,1,30,17,0,13,0.786765,107,0.145616
+pop reggaeton,pop reggaeton,2,122,29,0,3,0.706897,287,0.179252
+new jersey rap,new jersey rap,1,40,23,0,45,0.762846,193,0.193999
+belgian dance,belgian dance,2,28,18,0,46,0.803922,123,0.127315
+old school hip hop,old school hip hop,1,9,8,0,26,1,28,0.066643
+afro dancehall,afro dancehall,1,92,29,0,24,0.830049,337,0.240499
+afropop,afropop,1,92,28,0,41,0.854497,323,0.241393
+azonto,azonto,1,55,21,0,17,0.947619,199,0.194239
+basshall,basshall,1,47,27,0,19,0.621083,218,0.185002
+la pop,la pop,1,10,9,0,28,0.916667,33,0.07663
+celtic,celtic,4,3,1,1,10,0,0,0.001665
+new wave pop,new wave pop,4,18,6,1,10,0,0,0.008989
+celtic punk,celtic punk,4,3,1,1,10,0,0,0.001665
+celtic rock,celtic rock,4,3,1,1,10,0,0,0.001665
+folk punk,folk punk,4,3,1,1,10,0,0,0.001665
+irish folk,irish folk,4,3,1,1,10,0,0,0.001665
+punk,punk,4,3,1,1,10,0,0,0.001665
+disco house,disco house,1,38,7,0,17,1,21,0.075092
+irish rock,irish rock,1,4,4,0,37,1,6,0.033718
+electropowerpop,electropowerpop,1,4,4,0,18,1,6,0.045016
+soca,soca,2,4,4,0,41,1,6,0.030461
+canadian electronic,canadian electronic,1,46,22,0,48,0.861472,199,0.165691
+turntablism,turntablism,1,9,9,0,16,1,36,0.091726
+deep pop edm,deep pop edm,1,10,9,0,20,0.777778,28,0.071959
+australian hip hop,australian hip hop,2,9,9,0,44,0.75,27,0.069021
+acoustic pop,acoustic pop,1,10,10,0,28,0.777778,35,0.066864
+sky room,sky room,1,7,7,0,28,0.857143,18,0.054827
+indiecoustica,indiecoustica,1,10,10,0,28,0.777778,35,0.066864
+channel islands indie,channel islands indie,1,6,6,0,21,1,15,0.063006
+gauze pop,gauze pop,1,4,4,0,8,1,6,0.044212
+gqom,gqom,1,12,8,0,22,0.666667,14,0.040736
+deep underground hip hop,deep underground hip hop,1,4,4,0,18,0.833333,5,0.02576
+dutch edm,dutch edm,1,51,22,0,48,0.896104,207,0.185482
+french pop,french pop,1,3,3,0,35,1,3,0.034779
+british soul,british soul,1,9,9,0,45,0.972222,35,0.100221
+new jack swing,new jack swing,1,5,5,0,45,0.9,9,0.04989
+vapor twitch,vapor twitch,1,11,11,0,48,0.527273,29,0.070694
+deep adult standards,deep adult standards,1,12,4,0,26,0.5,3,0.008278
+vocal harmony group,vocal harmony group,1,12,4,0,26,0.5,3,0.008278
+brill building pop,brill building pop,1,6,2,0,26,0,0,0.003231
+easy listening,easy listening,1,15,5,0,26,0.7,7,0.015694
+lounge,lounge,1,33,13,0,26,0.448718,35,0.068289
+indie anthem-folk,indie anthem-folk,1,10,5,0,47,1,10,0.057167
+aussietronica,aussietronica,5,1,1,0,35,0,0,0.001608
+melbourne bounce,melbourne bounce,5,2,2,0,35,0,0,0.012745
+swedish synthpop,swedish synthpop,1,6,6,0,23,0.533333,8,0.037113
+australian electropop,australian electropop,1,8,8,0,23,0.678571,19,0.062563
+australian indie,australian indie,1,13,11,0,23,0.745455,41,0.090656
+swing,swing,1,12,6,0,26,1,15,0.042792
+k-pop,k-pop,1,112,40,0,28,0.561404,416,0.258505
+viral trap,viral trap,1,14,7,0,13,1,21,0.060146
+k-pop boy group,k-pop boy group,1,78,29,0,13,0.662562,269,0.210784
+modern reggae,modern reggae,1,16,14,0,15,0.945055,86,0.112135
+reggae,reggae,2,13,12,0,15,0.924242,61,0.086884
+roots reggae,roots reggae,2,13,12,0,19,0.924242,61,0.086884
+indie soul,indie soul,1,6,6,0,34,1,15,0.057096
+afro house,afro house,1,13,13,0,22,0.692308,54,0.100301
+kwaito house,kwaito house,1,13,13,0,22,0.692308,54,0.100301
+teen pop,teen pop,1,22,7,0,17,1,21,0.069497
+drill,drill,1,35,12,0,34,1,66,0.102813
+vapor trap,vapor trap,1,278,36,0,22,0.754622,449,0.242018
+nyc rap,nyc rap,1,9,7,0,45,0.904762,19,0.055776
+album rock,album rock,6,23,10,0,20,0.488889,22,0.056477
+experimental rock,experimental rock,6,27,9,0,20,0.472222,17,0.019445
+art rock,art rock,6,13,5,0,20,0.6,6,0.011964
+classic rock,classic rock,6,23,12,0,20,0.515152,34,0.080708
+folk rock,folk rock,6,9,3,0,20,0.666667,2,0.005574
+mellow gold,mellow gold,6,11,5,0,20,0.4,4,0.024153
+psychedelic rock,psychedelic rock,6,9,3,0,20,0.666667,2,0.005574
+experimental,experimental,6,24,8,0,20,0.357143,10,0.017497
+experimental pop,experimental pop,6,26,10,0,20,0.311111,14,0.038291
+country dawn,country dawn,1,14,8,0,26,0.75,21,0.059921
+liquid funk,liquid funk,1,44,16,0,24,0.8,96,0.123438
+panamanian pop,panamanian pop,2,192,16,0,3,0.933333,112,0.080463
+bedroom pop,bedroom pop,1,9,9,0,4,0.611111,22,0.055549
+vapor pop,vapor pop,1,5,5,0,4,0.8,8,0.044281
+texas country,texas country,1,31,13,0,4,0.820513,64,0.098075
+chicago indie,chicago indie,1,5,5,0,45,1,10,0.049259
+post-romantic era,post-romantic era,1,3,1,0,17,0,0,0.002058
+soundtrack,soundtrack,1,20,7,0,17,0.428571,9,0.055176
+ukrainian classical,ukrainian classical,1,3,1,0,17,0,0,0.002058
+bmore,bmore,1,131,36,0,8,0.615873,388,0.256244
+ninja,ninja,1,131,36,0,8,0.615873,388,0.256244
+heartland rock,heartland rock,1,2,2,0,26,1,1,0.018579
+soft rock,soft rock,1,6,3,0,26,1,3,0.022479
+canadian country,canadian country,1,9,3,0,26,1,3,0.012463
+crunk,crunk,1,28,14,0,25,0.934066,85,0.125729
+bboy,bboy,1,4,4,0,31,0.333333,2,0.026592
+new french touch,new french touch,1,4,4,0,31,0,0,0.007049
+funk,funk,1,4,4,0,31,0.333333,2,0.026592
+instrumental funk,instrumental funk,1,4,4,0,31,0.333333,2,0.026592
+modern funk,modern funk,1,4,4,0,31,0.333333,2,0.026592
+swedish tropical house,swedish tropical house,1,7,7,0,20,0.857143,18,0.059454
+dominican pop,dominican pop,2,16,6,0,3,1,15,0.04086
+nigerian hip hop,nigerian hip hop,1,60,24,0,16,0.887681,245,0.208118
+nigerian pop,nigerian pop,1,60,24,0,16,0.887681,245,0.208118
+classical tenor,classical tenor,1,2,2,0,33,1,1,0.022121
+italian tenor,italian tenor,1,2,2,0,33,1,1,0.022121
+operatic pop,operatic pop,1,2,2,0,33,1,1,0.022121
+hardcore hip hop,hardcore hip hop,1,382,25,0,45,0.793478,219,0.171722
+show tunes,show tunes,1,72,9,0,20,0.821429,23,0.040267
+trap argentino,trap argentino,2,296,26,0,3,0.693333,208,0.128827
+argentine hip hop,argentine hip hop,2,129,21,0,3,0.721053,137,0.108159
+italian hip hop,italian hip hop,7,113,24,0,31,0.422925,107,0.131373
+german cloud rap,german cloud rap,3,35,14,0,43,0.461538,36,0.050879
+movie tunes,movie tunes,1,25,6,0,20,1,15,0.034837
+cali rap,cali rap,1,196,39,0,22,0.598862,421,0.242668
+k-pop girl group,k-pop girl group,1,27,11,0,28,0.8,36,0.074361
+broadway,broadway,1,17,6,0,20,1,15,0.034837
+electronica,electronica,1,24,10,0,21,1,45,0.096495
+uk alternative pop,uk alternative pop,1,41,23,0,25,0.794466,201,0.195839
+soul,soul,1,19,9,0,26,0.888889,32,0.07167
+south african hip hop,south african hip hop,1,19,10,0,38,0.955556,43,0.088516
+italian underground hip hop,italian underground hip hop,7,31,9,0,31,0.75,21,0.019282
+ghanaian hip hop,ghanaian hip hop,1,25,15,0,24,0.885714,93,0.135672
+swedish dancehall,swedish dancehall,1,25,15,0,23,0.885714,93,0.135672
+rap rock,rap rock,1,28,15,0,1,0.8,84,0.116982
+outlaw country,outlaw country,1,12,4,0,33,1,6,0.047371
+destroy techno,destroy techno,1,9,3,0,13,0.666667,2,0.026517
+pop catracho,pop catracho,2,6,3,0,3,1,3,0.021549
+disco,disco,1,4,2,0,26,1,1,0.007853
+jazz funk,jazz funk,1,4,2,0,26,1,1,0.007853
+jazz guitar,jazz guitar,1,4,2,0,26,1,1,0.007853
+motown,motown,1,4,2,0,26,1,1,0.007853
+quiet storm,quiet storm,1,4,2,0,26,1,1,0.007853
+smooth jazz,smooth jazz,1,15,11,0,26,0.890909,49,0.088554
+soul jazz,soul jazz,1,4,2,0,26,1,1,0.007853
+yacht rock,yacht rock,1,4,2,0,26,1,1,0.007853
+future house,future house,1,24,14,0,12,0.901099,82,0.116275
+europop,europop,1,42,13,0,47,0.769231,60,0.094633
+dutch hip hop,dutch hip hop,2,26,18,0,46,0.852941,116,0.126075
+video game music,video game music,1,36,22,0,28,0.744589,172,0.165193
+rap sardegna,rap sardegna,7,16,7,0,31,0.666667,14,0.017529
+glam rock,glam rock,6,20,9,0,20,0.464286,13,0.018774
+french hip hop,french hip hop,3,23,12,0,43,0.454545,25,0.045087
+pop urbaine,pop urbaine,3,22,11,0,43,0.488889,22,0.043465
+rap marseille,rap marseille,3,5,4,0,43,1,6,0.031786
+alabama rap,alabama rap,1,12,9,0,18,0.944444,34,0.077105
+chicago drill,chicago drill,1,10,8,0,34,1,28,0.06999
+funk ostentacao,funk ostentacao,2,18,8,0,44,0.619048,13,0.022478
+trance,trance,1,38,20,0,48,0.942105,179,0.174949
+milan indie,milan indie,7,2,1,0,31,0,0,0.003002
+rap tunisien,rap tunisien,7,2,1,0,31,0,0,0.003002
+pop argentino,pop argentino,1,17,14,0,3,0.879121,80,0.126948
+detroit trap,detroit trap,1,4,4,0,43,1,6,0.034939
+albanian hip hop,albanian hip hop,3,17,11,0,43,0.711111,32,0.052486
+modern salsa,modern salsa,2,4,4,0,33,1,6,0.034838
+salsa,salsa,2,4,4,0,33,1,6,0.034838
+kosovan pop,kosovan pop,3,19,9,0,43,0.821429,23,0.048781
+birmingham grime,birmingham grime,1,12,6,0,21,1,15,0.063006
+instrumental grime,instrumental grime,1,24,11,0,20,0.981818,54,0.091763
+eurodance,eurodance,1,12,8,0,47,1,28,0.077219
+italo dance,italo dance,1,4,2,0,35,1,1,0.022394
+afrofuturism,afrofuturism,1,6,6,0,21,1,15,0.063006
+trip hop,trip hop,1,6,6,0,21,1,15,0.063006
+german pop,german pop,3,10,4,0,43,0.5,3,0.008931
+ritmo kombina,ritmo kombina,2,6,6,0,44,0.933333,14,0.034814
+houston rap,houston rap,1,24,16,0,34,1,120,0.14678
+battle rap,battle rap,1,5,5,0,1,1,10,0.052045
+italian alternative,italian alternative,7,7,4,0,31,1,6,0.008266
+italian pop,italian pop,7,7,4,0,31,1,6,0.008266
+rap napoletano,rap napoletano,7,16,4,0,31,1,6,0.008266
+dance rock,dance rock,6,4,2,0,20,1,1,0.00639
+protopunk,protopunk,6,4,2,0,20,1,1,0.00639
+schweizer rap,schweizer rap,2,6,3,0,31,1,3,0.021044
+nc hip hop,nc hip hop,1,197,28,0,22,0.809117,284,0.198039
+norwegian indie,norwegian indie,1,7,7,0,20,1,21,0.069206
+meme rap,meme rap,1,32,13,0,22,0.923077,72,0.085915
+uk drill,uk drill,1,5,5,0,19,1,10,0.050187
+pagode,pagode,2,4,2,0,44,0,0,0.003364
+sertanejo pop,sertanejo pop,2,5,4,0,44,0.5,3,0.012431
+sertanejo universitario,sertanejo universitario,2,6,5,0,44,0.5,5,0.018929
+funk bh,funk bh,2,4,2,0,44,1,1,0.006757
+west coast trap,west coast trap,1,4,4,0,22,0.5,3,0.013534
+south african pop,south african pop,1,4,4,0,22,0.666667,4,0.023335
+oklahoma country,oklahoma country,1,14,7,0,47,0.714286,15,0.060173
+chillwave,chillwave,1,2,2,0,13,1,1,0.020794
+shimmer pop,shimmer pop,1,5,4,0,4,0.833333,5,0.032088
+boston hip hop,boston hip hop,1,13,7,0,37,1,21,0.056988
+jump blues,jump blues,1,3,3,0,38,1,3,0.030329
+vocal jazz,vocal jazz,1,3,3,0,38,1,3,0.030329
+comedy rap,comedy rap,1,5,5,0,39,1,10,0.060833
+zimdancehall,zimdancehall,1,18,9,0,33,1,36,0.08685
+cumbia,cumbia,2,20,9,0,3,1,36,0.05664
+latin alternative,latin alternative,2,20,9,0,3,1,36,0.05664
+latin rock,latin rock,2,20,9,0,3,1,36,0.05664
+r&b en espanol,r&b en espanol,2,160,20,0,3,0.768421,146,0.095773
+sudanese pop,sudanese pop,1,71,17,0,22,0.926471,126,0.123886
+trap italiana,trap italiana,7,30,8,0,31,0.857143,18,0.013115
+vocal house,vocal house,1,34,7,0,17,1,21,0.075092
+melodic dubstep,melodic dubstep,1,24,6,0,9,1,15,0.067442
+emo,emo,1,26,13,0,49,0.923077,72,0.123412
+pop house,pop house,1,12,8,0,17,0.809524,17,0.061606
+colombian hip hop,colombian hip hop,2,19,10,0,15,0.977778,44,0.059251
+country rap,country rap,1,22,14,0,26,0.736264,67,0.100386
+birmingham metal,birmingham metal,1,8,3,0,48,1,3,0.025935
+hard rock,hard rock,1,8,3,0,48,1,3,0.025935
+metal,metal,1,8,3,0,48,1,3,0.025935
+baroque pop,baroque pop,1,8,3,0,11,1,3,0.039877
+german underground rap,german underground rap,3,10,3,0,43,1,3,0.006784
+british indie rock,british indie rock,1,18,11,0,4,0.872727,48,0.097339
+rap dominicano,rap dominicano,2,24,15,0,41,0.914286,96,0.133082
+dutch urban,dutch urban,2,22,15,0,46,0.971429,102,0.120367
+salsa choke,salsa choke,2,13,7,0,3,1,21,0.04672
+dark trap,dark trap,1,2,1,0,42,0,0,0.013173
+pop punk,pop punk,1,18,11,0,49,0.909091,50,0.098162
+rap conscient,rap conscient,3,8,6,0,43,0.8,8,0.008925
+dembow,dembow,1,16,12,0,24,0.984848,65,0.113742
+afrobeat,afrobeat,1,12,9,0,21,1,36,0.097055
+malian blues,malian blues,1,12,9,0,21,1,36,0.097055
+mande pop,mande pop,1,12,9,0,21,1,36,0.097055
+wassoulou,wassoulou,1,12,9,0,21,1,36,0.097055
+world,world,1,12,9,0,21,1,36,0.097055
+venezuelan hip hop,venezuelan hip hop,2,7,5,0,3,1,10,0.03426
+brega funk,brega funk,2,5,4,0,44,0.833333,5,0.01251
+rock en espanol,rock en espanol,2,5,3,0,33,1,3,0.023716
+smooth saxophone,smooth saxophone,1,11,10,0,45,0.933333,42,0.084602
+trap brasileiro,trap brasileiro,2,10,7,0,31,1,21,0.043694
+blues rock,blues rock,1,10,7,0,22,1,21,0.068744
+mexican classic rock,mexican classic rock,1,10,7,0,22,1,21,0.068744
+deep talent show,deep talent show,1,7,7,0,24,0.952381,20,0.06032
+finnish pop,finnish pop,1,7,7,0,18,0.857143,18,0.059181
+bubblegum dance,bubblegum dance,1,8,8,0,47,1,28,0.077219
+neo-synthpop,neo-synthpop,1,3,3,0,4,0.666667,2,0.025921
+gospel,gospel,1,2,2,0,45,1,1,0.018739
+trap espanol,trap espanol,2,6,6,0,48,0.7,7,0.013426
+belgian hip hop,belgian hip hop,3,3,3,0,43,1,3,0.00573
+k-hop,k-hop,2,9,9,0,26,0.638889,23,0.053232
+la indie,la indie,1,3,3,0,42,1,3,0.036436
+minnesota hip hop,minnesota hip hop,1,3,3,0,11,1,3,0.039877
+regional mexican pop,regional mexican pop,2,4,4,0,3,1,6,0.027962
+turkish hip hop,turkish hip hop,3,3,3,0,43,0.333333,1,0.008734
+turkish trap,turkish trap,3,3,3,0,43,0.333333,1,0.008734
+forro,forro,2,3,3,0,44,1,3,0.010898
+classic arab pop,classic arab pop,1,6,6,0,43,1,15,0.060595
+rai,rai,1,6,6,0,43,1,15,0.060595
+baton rouge rap,baton rouge rap,1,2,2,0,45,1,1,0.014239
+german trap,german trap,3,2,2,0,43,1,1,0.005227
+singer-songwriter,singer-songwriter,1,2,2,0,13,1,1,0.020794
+rap francais,rap francais,3,2,2,0,43,1,1,0.004086
+musica canaria,musica canaria,2,3,3,0,3,1,3,0.020062
+chicago house,chicago house,1,1,1,0,31,0,0,0.002593
+reggaeton chileno,reggaeton chileno,2,2,2,0,48,1,1,0.003938
+trap chileno,trap chileno,2,2,2,0,48,1,1,0.003938
+indie rock,indie rock,1,5,5,0,45,1,10,0.049259
+washington indie,washington indie,1,5,5,0,45,1,10,0.049259
+r&b argentino,r&b argentino,2,2,2,0,3,1,1,0.005761
