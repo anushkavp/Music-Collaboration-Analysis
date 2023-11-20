@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Read the edge table from a CSV file
-edges_df = pd.read_csv('/Users/Arundhati/Downloads/All Global Artist Collaborations.csv')
+edges_df = pd.read_csv('/Users/Arundhati/Downloads/All US Artist Collaborations.csv')
 #%%
 # Sum the values in the 'count' column based on unique combinations of 'Source' and 'Target'
 edges_df['Weight'] = edges_df.groupby(['Source', 'Target'])['Count'].transform('sum')
@@ -11,7 +11,7 @@ edges_df['Weight'] = edges_df.groupby(['Source', 'Target'])['Count'].transform('
 edges_df = edges_df.drop_duplicates(subset=['Source', 'Target'])
 
 # Save the updated edge DataFrame to a different directory
-edges_df.to_csv(r'/Users/Arundhati/Downloads/Global_edges_with_summed_weights.csv', index=False, header=True)
+edges_df.to_csv(r'/Users/Arundhati/Downloads/USedges_with_summed_weights.csv', index=False, header=True)
 print('done')
 
 # Print the updated edge DataFrame
